@@ -1,0 +1,21 @@
+[submodule "rs-common"]
+	path = rs-common
+	url = https://github.com/trance-/rs-common.git
+[submodule "rs-user"]
+	path = rs-user
+	url = https://github.com/trance-/rs-user.git
+[submodule "rs-pricing"]
+	path = rs-pricing
+	url = https://github.com/trance-/rs-pricing.git
+[submodule "rs-payment"]
+	path = rs-payment
+	url = https://github.com/trance-/rs-payment.git
+[submodule "dbsrv"]
+	path = dbsrv
+	url = https://github.com/trance-/dbsrv.git
+[submodule "rs-booking"]
+	path = rs-booking
+	url = https://github.com/trance-/rs-booking.git
+[submodule "rs-driver"]
+	path = rs-driver
+	url = https://github.com/trance-/rs-driver.git
